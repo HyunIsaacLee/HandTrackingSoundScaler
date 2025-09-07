@@ -8,9 +8,6 @@
 1. [Project Overview](#project-overview)
 2. [Features](#features)
 3. [Installation](#installation)
-4. [Usage](#usage)
-5. [Folder Structure](#folder-structure)
-6. [License](#license)
 
 ---
 
