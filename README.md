@@ -28,6 +28,7 @@ The program visualizes hand landmarks using OpenCV while modifying the audio in 
 ## Features
 - Real-time hand tracking with OpenCV + MediaPipe
 - Volume, pitch, and speed control of `.wav` audio files
+- .wav file: https://freesound.org/people/bassimat/sounds/824892/
 - Visualization of hand landmarks for easy tracking
 
 ---
