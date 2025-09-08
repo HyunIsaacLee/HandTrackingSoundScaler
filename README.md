@@ -35,7 +35,7 @@ The program visualizes hand landmarks using OpenCV while modifying the audio in 
 ```bash
 # Clone the repo
 git clone https://https://github.com/HyunIsaacLee/HandTrackingSoundScaler.git
-cd HandTrackingMusicProject
+cd HandTrackingSoundScaler
 
 # (Optional) Create a virtual environment
 python -m venv venv
